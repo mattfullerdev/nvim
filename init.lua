@@ -7,6 +7,8 @@ vim.g.snacks_explorer = false
 vim.opt.expandtab = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
+vim.opt.number = true
+vim.opt.relativenumber = true
 
 -- Highlight when yanking (copying) text
 -- Try it with 'yap' in normal mode
